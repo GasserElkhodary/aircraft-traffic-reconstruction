@@ -1,0 +1,4 @@
+region,rows,region_hours,mean_aircraft_per_hour,mean_observed_minutes,observations_per_acquired_hour
+ATL,6366.0,1,126.0,16.0,6366.0
+DFW,7537.0,1,151.0,16.0,7537.0
+ORD,5701.0,1,153.0,16.0,5701.0

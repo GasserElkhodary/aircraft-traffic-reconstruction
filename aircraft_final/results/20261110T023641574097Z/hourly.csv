@@ -1,0 +1,4 @@
+day,region,utc_hour,rows,aircraft,observed_minutes,speed_median_mps,altitude_median_m,flagged_rows
+2026-11-10,ATL,2,6366,126,16,57.55,2613.66,0
+2026-11-10,DFW,2,7537,151,16,87.465,1455.42,2
+2026-11-10,ORD,2,5701,153,16,93.63,1920.24,1

@@ -1,0 +1,4 @@
+day,region,intervals,median_gap_s,p95_gap_s,gaps_over_300s
+2026-11-10,ATL,6240,10.0,18.0,1
+2026-11-10,DFW,7386,10.0,17.0,2
+2026-11-10,ORD,5548,10.0,17.0,7

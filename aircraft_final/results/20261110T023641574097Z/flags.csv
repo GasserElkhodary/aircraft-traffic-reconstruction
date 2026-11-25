@@ -1,0 +1,4 @@
+track_id,time,lat,lon,velocity,implied_speed_mps,speed_flag,jump_flag,position_time_conflict,invalid_reported_speed,source_id,source_row,region,day
+DFW_2026-11-10_ac0a22_1,1794278798.0,32.8269,-96.9516,132.93,,False,False,True,False,9253df4f00cd87ba,15458,DFW,2026-11-10
+DFW_2026-11-10_ac7f41_1,1794278798.0,32.5291,-96.6151,180.81,,False,False,True,False,9253df4f00cd87ba,15424,DFW,2026-11-10
+ORD_2026-11-10_a0a30e_1,1794278387.0,41.6073,-88.3805,266.64,481.44825594938754,False,True,False,False,9253df4f00cd87ba,3841,ORD,2026-11-10

@@ -1,0 +1,4 @@
+regional_input,invalid_core_removed,duplicate_removed,conflicting_duplicate_keys,day,region,stale_or_future_removed,clean_rows,unknown_freshness_retained
+7357,0,0,0,2026-11-10,ATL,991,6366,0
+8823,0,0,0,2026-11-10,DFW,1286,7537,0
+7286,0,0,0,2026-11-10,ORD,1585,5701,0

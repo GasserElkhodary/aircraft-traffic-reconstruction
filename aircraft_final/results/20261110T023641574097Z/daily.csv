@@ -1,0 +1,4 @@
+day,region,rows,aircraft,candidate_segments,multi_point_segments,speed_median_mps,altitude_median_m
+2026-11-10,ATL,6366,126,127,126,57.55,2613.66
+2026-11-10,DFW,7537,151,153,151,87.465,1455.42
+2026-11-10,ORD,5701,153,160,160,93.63,1920.24

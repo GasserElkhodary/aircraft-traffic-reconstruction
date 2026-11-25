@@ -1,0 +1,54 @@
+[
+  {
+    "source_id": "9253df4f00cd87ba",
+    "file_name": "states_2026-11-10-02.csv",
+    "source_path": "C:\\Users\\gelkhoda\\Downloads\\live_data\\states_2026-11-10-02.csv",
+    "url": null,
+    "sha256": "9253df4f00cd87ba21b3082028189a595ba5f4dda3423023f913d4601dcc181d",
+    "bytes": 2678566,
+    "imported_utc": "2026-11-10T02:51:43.227746+00:00",
+    "scanned_rows": 25091,
+    "invalid_position_rows": 0,
+    "invalid_time_rows": 0,
+    "outside_requested_dates": 0,
+    "regional_rows": 23466,
+    "verified_archive_hour": null,
+    "observed_hours": [
+      [
+        "2026-11-10",
+        2
+      ]
+    ],
+    "min_time": 1794278260.0,
+    "max_time": 1794279154.0,
+    "members": [
+      "states_2026-11-10-02.csv"
+    ],
+    "partitions": [
+      {
+        "path": "data\\regional\\9253df4f00cd87ba_604de4c743c1_00000.parquet",
+        "day": "2026-11-10",
+        "hour": 2,
+        "region": "ATL",
+        "rows": 7357,
+        "sha256": "7d12df8fd742684344be1b03dccaa4fdbc67eaec80744efd0417243625ba3d99"
+      },
+      {
+        "path": "data\\regional\\9253df4f00cd87ba_604de4c743c1_00001.parquet",
+        "day": "2026-11-10",
+        "hour": 2,
+        "region": "ORD",
+        "rows": 7286,
+        "sha256": "026c9272bdf7848ba78e3eecbbb1c51efb5d52c38ebac31e368c60df5506339e"
+      },
+      {
+        "path": "data\\regional\\9253df4f00cd87ba_604de4c743c1_00002.parquet",
+        "day": "2026-11-10",
+        "hour": 2,
+        "region": "DFW",
+        "rows": 8823,
+        "sha256": "645414b40d728b4f091ef1163ba5f6cb9bde189d2163293bc0756aee4ec7f504"
+      }
+    ]
+  }
+]

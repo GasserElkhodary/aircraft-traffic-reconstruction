@@ -1,0 +1,17 @@
+{
+  "status": "LIVE-DATA RUN \u2014 VALIDATED (1 day(s), 1 UTC hour(s) with data)",
+  "sources": 1,
+  "source_rows_scanned": 25091,
+  "regional_rows_before_cleaning": 23466,
+  "clean_rows": 19604,
+  "verified_archive_hours": 0,
+  "planned_archive_hours": 24,
+  "data_mode": "live",
+  "hours_with_data": 1,
+  "regional_500k_target_met": false,
+  "clean_500k_target_met": false,
+  "full_four_day_acquisition": false,
+  "validation_passed": true,
+  "failed_inputs": 0,
+  "candidate_segments": 440
+}

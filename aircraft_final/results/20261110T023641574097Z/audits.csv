@@ -1,0 +1,10 @@
+day,region,candidate_id,sampled_rows,lineage_match,ordered,within_gap_threshold
+2026-11-10,ATL,78298cd57ffb,2,True,True,True
+2026-11-10,ATL,825616aee259,5,True,True,True
+2026-11-10,ATL,7e40731e43e0,5,True,True,True
+2026-11-10,DFW,1da5f706ce34,3,True,True,True
+2026-11-10,DFW,961a228a97c3,5,True,True,True
+2026-11-10,DFW,09da6c532de9,5,True,True,True
+2026-11-10,ORD,cf18b64a8269,2,True,True,True
+2026-11-10,ORD,a32143488bc0,5,True,True,True
+2026-11-10,ORD,fdb6113dd8bd,5,True,True,True
